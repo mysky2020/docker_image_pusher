@@ -1,3 +1,5 @@
 nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 acweblabs/nginx-php7.4-fpm
+ridhabnj/php-7.4-nginx:latest
+lucasfbr/laravelapp:1.0.0
